@@ -1,16 +1,16 @@
-## Hi there 👋
+```md
+Hi 👋, I'm Yahaya Salisu
 
-<!--
-**Yahaya-Salisu/Yahaya-Salisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blockchain Developer | Smart Contract Auditor | Solidity | DeFi | Web3
 
-Here are some ideas to get you started:
+GitHub Stats:
+![Yahaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yahaya-Salisu&theme=radical)
+
+📫 How to reach me:  
+- Discord: @Yahaya-Salisu
+- LinkedIn: [LinkedIn](https://linkedin.com/in/Yahaya-BabsAudits)  
+- Twitter: [your-handle](https://twitter.com/BABS)
+```
