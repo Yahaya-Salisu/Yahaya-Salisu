@@ -37,22 +37,22 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 
 
 ### Audit Track Record
-- Contract Hijack in lending protocol  
-- Access Control bypass  
-- False deposits and over-redemption in staking  
-- Over-borrowing & over-repay logic flaws  
-- Unauthorized fee deductions in DEX  
+1. Contract Hijack in lending protocol  
+2. Access Control bypass  
+3. False deposits and over-redemption in staking  
+4. Over-borrowing & over-repay logic flaws  
+5. Unauthorized fee deductions in DEX  
 
 
 ### Development Track Record
-- Developed a fully functional ERC20 token.
-- Developed ERC721 with batch mint.
-- Refactored fixed reward staking protocol.
-- Transformed fiat-backed lending protocol to crypto-backed.
+1. Developed a fully functional ERC20 token.
+2. Developed ERC721 with batch mint.
+3. Refactored fixed reward staking protocol.
+4. Transformed fiat-backed lending protocol to crypto-backed.
 
 
 ### Moderation Track Record
-- Currently volunteering at Goat funded trader and FundedNext discord servers.
+1. Currently volunteering at Goat funded trader and FundedNext discord servers.
 
 
 ### Availability
