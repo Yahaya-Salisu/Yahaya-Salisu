@@ -1,47 +1,72 @@
-Hi 👋, I'm Yahaya Salisu
+<h3 align="center">Hi, I'm Yahaya Salisu</h3>
+<h4 align="center">Smart Contract Auditor | Solidity Developer | Community Moderator</h4>
 
-Smart Contract Auditor | Solidity Developer | Community Moderator | Solidity | DeFi | Web3
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/SmartContract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
+<img src="https://img.shields.io/badge/Solidity-Developer-informational?style=flat&logo=ethereum&color=pink" />
+  <img src="https://img.shields.io/badge/Community-Modarator-blueviolet" />
+  <img src="https://img.shields.io/badge/Web3-Contributor-brightgreen" />
+</p>
 
-![Yahaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yahaya-Salisu&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yahaya-Salisu&theme=radical" />
+</p>
 
 
-I specialize in Solidity and EVM-based smart contract security. My work spans across DeFi protocols, including DEXs, lending, staking, RWA, NFT marketplaces, and reward systems. I'm comfortable with unfamiliar protocols, analyzing complex vault logic, modular architectures, and custom tokenomics.
+### About Me
+I'm a Smart Contract Auditor and Solidity Developer with strong experience in community management. I’ve built and audited contracts across various DeFi protocols such as:
+
+- *DEXs*
+- *Lending platforms*
+- *Staking systems*
+- *NFT marketplaces*
+- *DAOs*
+- *RWA & custom tokenomics*
+
+
+As a *community moderator*, I help onboard users, answer technical questions, and guide beginners through complex DeFi and trading concepts, especially in *prop firm* and *crypto trading* communities.
 
 
 ### Tools & Techniques
-1. **Slither** for static analysis  
-2. **Manual code review** (my strongest skill)
-3. **Remix**:
-4. **Foundry**: for Fuzz testing, Unit testing, Mainnet forking, Interactive PoCs
+- **Slither** for static analysis
+- **Manual code review** (*strongest skill*)  
+- **Remix** for quick testing & debugging  
+- **Foundry** for unit testing, fuzzing, forking, and PoCs  
 
 
-### Track Record:
-1. I found Contract Hijack vulnerability in lending protocol
-2. I found Access control vulnerability in lending protocol
-3. I found false deposit and over-redemption bug in staking systems.
-4. I found over borrowing & over-repay in lending protocol.
-5. I found unauthorized fee deduction in Dex 
+### Audit Track Record
+- Contract Hijack in lending protocol  
+- Access Control bypass  
+- False deposits and over-redemption in staking  
+- Over-borrowing & over-repay logic flaws  
+- Unauthorized fee deductions in DEX  
+
+
+### Development Track Record
+- Developed a fully functional ERC20 token.
+- Developed ERC721 with batch mint.
+- Refactored fixed reward staking protocol.
+- Transformed fiat-backed lending protocol to crypto-backed.
+
+
+### Moderation Track Record
+- Currently volunteering at Goat funded trader and FundedNext discord servers.
 
 
 ### Availability
-I'm currently **open to**
--  Full-time roles (Remote or Hybrid)
--  Part-time positions
--  Freelance / Bug Bounty-based work
+- Full-time (Remote or Hybrid)  
+- Part-time or Freelance  
+- Bug Bounty & Audit Collaboration  
+- Community Moderator (Crypto/Forex Trading, Prop firms, or DeFi Servers)
 
-You can hire me to audit your smart contract at **affordable rates**.  
-I offer *per-contract*, *per-hour* and *per-week* pricing based on your scope and budget.
-
-Let's discuss your project! I'm always open to building secure DeFi together.
+ *Affordable pricing: per-contract | per-hour | per-week | per-month*
 
 
-
-### Contact Me:
+### Contact Me
 [WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
 | [LinkedIn](https://www.linkedin.com/in/yahaya-salisu)
-| [Twitter/X](https://x.com/Babs_Crypto1?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
-
-Discord: @Yahaya-Salisu
-
-Email: yahayasalisubabs@gmail.com
+| [Twitter/X](https://x.com/BABS96711?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
+- Discord: *@babs_audits*  
+- Email: yahayasalisubabs@gmail.com
