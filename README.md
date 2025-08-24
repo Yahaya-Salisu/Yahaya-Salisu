@@ -40,5 +40,8 @@ Let's discuss your project! I'm always open to building secure DeFi together.
 ### Contact Me:
 [WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
 | [LinkedIn](https://www.linkedin.com/in/yahaya-salisu)
-| [Twitter/X](https://x.com/Babs_Crypto1?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09) | Discord: @Yahaya-Salisu
+| [Twitter/X](https://x.com/Babs_Crypto1?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
+|
+Discord: @Yahaya-Salisu
+|
 Email: yahayasalisubabs@gmail.com
