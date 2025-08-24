@@ -1,4 +1,3 @@
-```md
 Hi 👋, I'm Yahaya Salisu
 
 Blockchain Developer | Smart Contract Auditor | Solidity | DeFi | Web3
@@ -12,5 +11,4 @@ GitHub Stats:
 📫 How to reach me:  
 - Discord: @Yahaya-Salisu
 - LinkedIn: [LinkedIn](https://linkedin.com/in/Yahaya-BabsAudits)  
-- Twitter: [your-handle](https://twitter.com/BABS)
-```
+- Twitter: [your-handle](https://twitter.com/BABS
