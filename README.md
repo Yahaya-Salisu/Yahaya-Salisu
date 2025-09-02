@@ -52,7 +52,7 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 
 
 ### Moderation Track Record
-1. Currently volunteering at Goat funded trader and FundedNext discord servers.
+1. Offered a volunteer moderator role at Goat funded trader and FundedNext discord servers.
 
 
 ### Availability
@@ -62,6 +62,12 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 - Community Moderator (Crypto/Forex Trading, Prop firms, or DeFi Servers)
 
  *Affordable pricing: per-contract | per-hour | per-week | per-month*
+
+
+### Check Out My Gigs On Fiverr
+Audit Gig: https://www.fiverr.com/s/P2edrLG
+Development Gig: https://www.fiverr.com/s/2Kl6zaq
+Moderation Gig: https://www.fiverr.com/s/WEG8GR7
 
 
 ### Contact Me
