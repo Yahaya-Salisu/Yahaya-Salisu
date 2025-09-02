@@ -65,7 +65,11 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 
 
 ### Check Out My Gigs On Fiverr
-[Smart Contract Audit Gig:](https://www.fiverr.com/s/P2edrLG) | [Smart Contract Development Gig:](https://www.fiverr.com/s/2Kl6zaq) | [Discord & Telegram Moderation Gig:](https://www.fiverr.com/s/WEG8GR7)
+[Smart Contract Audit Gig:](https://www.fiverr.com/s/P2edrLG)
+
+[Smart Contract Development Gig:](https://www.fiverr.com/s/2Kl6zaq)
+
+[Discord & Telegram Moderation Gig:](https://www.fiverr.com/s/WEG8GR7)
 
 
 ### Contact Me
