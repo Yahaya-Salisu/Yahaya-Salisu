@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/SmartContract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
 <img src="https://img.shields.io/badge/Solidity-Developer-informational?style=flat&logo=ethereum&color=pink" />
   <img src="https://img.shields.io/badge/Community-Modarator-blueviolet" />
-  <img src="https://img.shields.io/badge/Web3-Contributor-brightgreen" />
+  <img src="https://img.shields.io/badge/react.js-ethers.js-brightgreen" />
 </p>
 
 <p align="center">
