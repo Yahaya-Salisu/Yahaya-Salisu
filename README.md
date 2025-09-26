@@ -64,12 +64,12 @@ As a *community moderator*, I help onboard users, answer technical questions, an
  *Affordable pricing: per-contract | per-hour | per-week | per-month*
 
 
-### Check Out My Gigs On Fiverr
-[Smart Contract Audit Gig:](https://www.fiverr.com/s/P2edrLG)
+### Check Out My Gigs On Upwork:
+[Smart Contract Audit Gig:](https://www.upwork.com/services/product/development-it-a-thorough-manual-and-automated-audit-of-your-smart-contract-projects-1969718834629943349?ref=project_share)
 
-[Smart Contract Development Gig:](https://www.fiverr.com/s/2Kl6zaq)
+[Smart Contract Development Gig:](https://www.upwork.com/services/product/development-it-a-fully-functional-erc20-token-with-advanced-features-as-your-requirements-1969801198961926197?ref=project_share)
 
-[Discord & Telegram Moderation Gig:](https://www.fiverr.com/s/WEG8GR7)
+[Discord & Telegram Moderation Gig:](https://www.upwork.com/services/product/marketing-a-discord-telegram-moderator-to-keep-your-server-active-and-engaged-1969673437038865120?ref=project_share)
 
 
 ### Contact Me
