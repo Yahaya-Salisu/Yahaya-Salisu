@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/SmartContract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
 <img src="https://img.shields.io/badge/Solidity-Developer-informational?style=flat&logo=ethereum&color=pink" />
   <img src="https://img.shields.io/badge/Community-Modarator-blueviolet" />
-  <img src="https://img.shields.io/badge/react.js-ethers.js-brightgreen" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
@@ -70,11 +68,3 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 [Smart Contract Development Gig:](https://www.upwork.com/services/product/development-it-a-fully-functional-erc20-token-with-advanced-features-as-your-requirements-1969801198961926197?ref=project_share)
 
 [Discord & Telegram Moderation Gig:](https://www.upwork.com/services/product/marketing-a-discord-telegram-moderator-to-keep-your-server-active-and-engaged-1969673437038865120?ref=project_share)
-
-
-### Contact Me
-[WhatsApp](https://wa.me/qr/AOJIRGL4JCO7D1)
-| [LinkedIn](https://www.linkedin.com/in/Yahaya-BabsAudits)
-| [Twitter/X](https://x.com/BABS96711?t=Vc6SgVuVgS8FxbVUZZXHVw&s=09)
-- Discord: *@babs_audits*  
-- Email: yahayasalisubabs@gmail.com
