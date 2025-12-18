@@ -1,4 +1,4 @@
-## [M-01] Missing zero address validation allows owner/spender to set zero address as controller in requestDeposit(), leading to permanent loss of funds
+## [L-01] Missing zero address validation allows owner/spender to set zero address as controller in requestDeposit(), leading to permanent loss of funds
 
 ### Finding description
 `requestDeposit()` allows users or operators to provide `controller = address(0)`.
@@ -46,9 +46,10 @@ function test_BasicDepositFlow() public {
 
 ### Links to affected code
 src%2FERC7575VaultUpgradeable.sol#L341-L356
+
 ---
 
-## [M-02] Missing validation in requestRedeem() function allows owner/operator or bot to set zero address as controller, Leading to permanent loss of funds
+## [L-02] Missing validation in requestRedeem() function allows owner/operator or bot to set zero address as controller, Leading to permanent loss of funds
 
 ### Finding description and impact
 `requestRedeem()` allows users to provide `controller = address(0)`.
