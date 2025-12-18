@@ -2,8 +2,10 @@
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [L-01](#l-01-Missing-zero-address-validation-allows-owner/spender-to-set-zero-address-as-controller-in-requestDeposit(),-leading-to-permanent-loss-of-funds)
 | Missing zero address validation allows owner/spender to set zero address as controller in requestDeposit(), leading to permanent loss of funds
+|
 | [L-02](#l-02-Missing-validation-in-requestRedeem()-function-allows-owner/operator-or-bot-to-set-zero-address-as-controller,-Leading-to-permanent-loss-of-funds)
 | Missing validation in requestRedeem() function allows owner/operator or bot to set zero address as controller, Leading to permanent loss of funds
+|
 
 
 ## [L-01] Missing zero address validation allows owner/spender to set zero address as controller in requestDeposit(), leading to permanent loss of funds
