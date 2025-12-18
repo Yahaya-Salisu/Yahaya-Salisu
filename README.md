@@ -20,7 +20,7 @@ I'm a Smart Contract Auditor and Solidity Developer with strong experience in co
 ### Audit Track Records:
 | Contest | Date | Description | Findings | Report |
 | :------ | :--- | :---------- | :------- | :----- |
-| [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Nov 2025 | On-chain marketplace connecting DeFi directly with profitable real-world businesses through profit-sharing debt instruments | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF) | [View](./contests/2025-11-Sukukfi/) |
+| [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Nov 2025 | On-chain marketplace connecting DeFi directly with profitable real-world businesses through profit-sharing debt instruments | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF) | [View](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2025-11-sukukfi%2Ffindings.md) |
 
 
 ### Development Track Record
