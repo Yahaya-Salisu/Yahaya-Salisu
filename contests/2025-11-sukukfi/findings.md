@@ -1,19 +1,19 @@
-# [M-01] Missing zero address validation allows owner/spender to set zero address as controller in requestDeposit(), leading to permanent loss of funds
+## [M-01] Missing zero address validation allows owner/spender to set zero address as controller in requestDeposit(), leading to permanent loss of funds
 
-## Finding description
+### Finding description
 requestDeposit() allows users or operators to provide controller = address(0).
 The controller is the address that receives the final shares (for deposit) after the asynchronous lifecycle is completed, and this violates the intended invariant that the zero address should never be considered as controller in all operations.
 
-## Impact
+### Impact
 If a user or automation bot accidentally or maliciously sets controller = 0x000...0000, all shares associated with that request become permanently unclaimable.
 
-## Recommended mitigation steps
+### Recommended mitigation steps
 Add a validation check:
 ```solidity
 require(controller != address(0), "InvalidController");
 ```
 
-## Proof of Concept
+### Proof of Concept
 Simply change the controller in ERC7575Upgradeable.t.sol::test_BasicDepositFlow() function to address zero and run the test.
 ```solidity
 function test_BasicDepositFlow() public {
@@ -43,5 +43,5 @@ function test_BasicDepositFlow() public {
         assertEq(shares, depositAmount); // 1:1 initially
     }
 ```
-## Links to affected code
+### Links to affected code
 src%2FERC7575VaultUpgradeable.sol#L341-L356
