@@ -14,7 +14,7 @@
 
 
 ### About Me
-I'm a Smart Contract Auditor and Solidity Developer with strong experience in community management. I’ve built and audited contracts across various DeFi protocols such as:
+I'm a Solidity Smart Contract Auditor and Fullstack Blockchain Developer, with additional experience in community management. I’ve built and audited contracts across various DeFi protocols.
 
 
 ### Audit Track Records:
@@ -33,7 +33,7 @@ I'm a Smart Contract Auditor and Solidity Developer with strong experience in co
 | [Flash USDn (ERC20)](https://github.com/Yahaya-Salisu/naira_flash_token) | 2025 | ERC20-based flash-token that expires after 30 minutes of minting and disappears from the wallet once a user initiates interaction | Solidity, Foundry | [Sepolia](https://sepolia.etherscan.io/token/0x72396eF5496A0057889e17C8232d19c1f253Eb6f)|
 
 
-As a *community moderator*, I help onboard users, answer technical questions, and guide beginners through complex DeFi and trading concepts, especially in *prop firm* and *crypto trading* communities.
+Additionally, I have experience moderating crypto and DeFi communities and guide beginners through complex DeFi and trading concepts, especially in *prop firm* and *crypto trading* communities.
 
 
 ### Tools & Techniques
@@ -41,10 +41,6 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 - **Manual code review** (*strongest skill*)  
 - **Remix** for quick testing & debugging  
 - **Foundry** for unit testing, fuzzing, forking, and PoCs  
-
-
-### Moderation Track Record
-1. Offered a volunteer moderator role at Goat funded trader and FundedNext discord servers.
 
 
 ### Availability
