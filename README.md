@@ -17,14 +17,16 @@
 I'm a Solidity Smart Contract Auditor and Fullstack Blockchain Developer, with additional experience in community management. I’ve built and audited contracts across various DeFi protocols.
 
 
-### Audit Track Records:
+### Audit Track Records
+
 | Contest | Date | Description | Findings | Report |
 | :------ | :--- | :---------- | :------- | :----- |
 | [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Nov 2025 | On-chain marketplace connecting DeFi directly with profitable real-world businesses through profit-sharing debt instruments | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF) | [View](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2025-11-sukukfi%2Ffindings.md) |
 
 ---
 
-### Development Track Record
+### Development Track Records
+
 | Project | Date | Description | Stack | Testnet |
 | :------ | :--- | :---------- | :---- | :------ |
 | [ERC20 Token (Advanced)](https://github.com/Yahaya-Salisu/naira_Erc20_token) | 2025 | ERC20 token with advanced features including role-based access, mint/burn controls, full test coverage and deployment scripts | Solidity, Foundry | [Sepolia](https://eth-sepolia.blockscout.com/address/0x1Ef143d8fCCDc1ECCEEC3CaD5D20dAAEDFAd4079?tab=contract) |
