@@ -33,6 +33,7 @@ I'm a Solidity Smart Contract Auditor and Fullstack Blockchain Developer, with a
 | [Lending Protocol](https://github.com/Yahaya-Salisu/naira_lending) | 2025 | Overcollateralized lending protocol with borrow, repay, liquidation, and interest rate logic | Solidity, Foundry | Sepolia |
 | [Flash USDn (ERC20)](https://github.com/Yahaya-Salisu/naira_flash_token) | 2025 | ERC20-based flash-token that expires after 30 minutes of minting and disappears from the wallet once a user initiates interaction | Solidity, Foundry | [Sepolia](https://sepolia.etherscan.io/token/0x72396eF5496A0057889e17C8232d19c1f253Eb6f)|
 
+---
 
 Additionally, I have experience moderating crypto and DeFi communities and guide beginners through complex DeFi and trading concepts, especially in *prop firm* and *crypto trading* communities.
 
