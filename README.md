@@ -16,12 +16,18 @@
 ### About Me
 I'm a Smart Contract Auditor and Solidity Developer with strong experience in community management. I’ve built and audited contracts across various DeFi protocols such as:
 
-- *DEXs*
-- *Lending platforms*
-- *Staking systems*
-- *NFT marketplaces*
-- *DAOs*
-- *RWA & custom tokenomics*
+
+### Audit Track Records:
+| Contest | Date | Description | Findings | Report |
+| :------ | :--- | :---------- | :------- | :----- |
+| [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Nov 2025 | ERC7540 (async vault) | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF) | [View](./2025-11-SukukFi/) |
+
+
+### Development Track Record
+1. Developed a fully functional ERC20 token.
+2. Developed ERC721 with batch mint.
+3. Refactored fixed reward staking protocol.
+4. Transformed fiat-backed lending protocol to crypto-backed.
 
 
 As a *community moderator*, I help onboard users, answer technical questions, and guide beginners through complex DeFi and trading concepts, especially in *prop firm* and *crypto trading* communities.
@@ -32,21 +38,6 @@ As a *community moderator*, I help onboard users, answer technical questions, an
 - **Manual code review** (*strongest skill*)  
 - **Remix** for quick testing & debugging  
 - **Foundry** for unit testing, fuzzing, forking, and PoCs  
-
-
-### Audit Track Record
-1. Contract Hijack in lending protocol  
-2. Access Control bypass  
-3. False deposits and over-redemption in staking  
-4. Over-borrowing & over-repay logic flaws  
-5. Unauthorized fee deductions in DEX  
-
-
-### Development Track Record
-1. Developed a fully functional ERC20 token.
-2. Developed ERC721 with batch mint.
-3. Refactored fixed reward staking protocol.
-4. Transformed fiat-backed lending protocol to crypto-backed.
 
 
 ### Moderation Track Record
