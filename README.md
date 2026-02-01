@@ -14,7 +14,7 @@
 
 
 ### About Me
-I'm a Solidity Smart Contract Auditor and Fullstack Blockchain Developer, with additional experience in community management. I’ve built and audited contracts across various DeFi protocols.
+I work on security reviews of DeFi protocols with focus on accounting risks, invariant breaks and trust assumptions. I work with a security-first mindset, aiming to understand systems deeply and identify real world exploits. I help teams identify potential vulnerabilities before deployment.
 
 
 ### Audit Track Records
@@ -37,8 +37,6 @@ I'm a Solidity Smart Contract Auditor and Fullstack Blockchain Developer, with a
 
 ---
 
-Additionally, I have experience moderating crypto and DeFi communities and guide beginners through complex DeFi and trading concepts, especially in *prop firm* and *crypto trading* communities.
-
 
 ### Tools & Techniques
 - **Slither** for static analysis
@@ -50,8 +48,7 @@ Additionally, I have experience moderating crypto and DeFi communities and guide
 ### Availability
 - Full-time (Remote or Hybrid)  
 - Part-time or Freelance  
-- Bug Bounty & Audit Collaboration  
-- Community Moderator (Crypto/Forex Trading, Prop firms, or DeFi Servers)
+- Audit Collaboration  
 
  *Affordable pricing: per-contract | per-hour | per-week | per-month*
 
@@ -60,5 +57,3 @@ Additionally, I have experience moderating crypto and DeFi communities and guide
 [Smart Contract Audit Gig:](https://www.upwork.com/services/product/development-it-a-thorough-manual-and-automated-audit-of-your-smart-contract-projects-1969718834629943349?ref=project_share)
 
 [Smart Contract Development Gig:](https://www.upwork.com/services/product/development-it-a-fully-functional-erc20-token-with-advanced-features-as-your-requirements-1969801198961926197?ref=project_share)
-
-[Discord & Telegram Moderation Gig:](https://www.upwork.com/services/product/marketing-a-discord-telegram-moderator-to-keep-your-server-active-and-engaged-1969673437038865120?ref=project_share)
