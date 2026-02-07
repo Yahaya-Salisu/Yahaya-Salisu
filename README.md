@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Yahaya Salisu</h3>
-<h4 align="center">Smart Contract Auditor | Fullstacak Web3 Developer | Community Moderator</h4>
+<h4 align="center">Smart Contract Security Researcher | Blockchain Developer</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
