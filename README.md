@@ -19,8 +19,10 @@ I work on security reviews of DeFi protocols with focus on accounting risks, inv
 
 ### Audit Track Records
 
+
 | Contest | Date | Description | Findings | Report |
 | :------ | :--- | :---------- | :------- | :----- |
+| [Olas](https://code4rena.com/audits/2026-01-olas) | Jan 2026 | Olas enables everyone to own and monetize their AI agents. It is the platform for true co-ownership of AI. Powered by the OLAS Token. | [H-01](https://code4rena.com/audits/2026-01-olas/submissions?uid=BRC5Wm7Wvvc) | [View]() |
 | [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Nov 2025 | On-chain marketplace connecting DeFi directly with profitable real-world businesses through profit-sharing debt instruments | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF) | [View](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2025-11-sukukfi%2Ffindings.md) |
 
 ---
