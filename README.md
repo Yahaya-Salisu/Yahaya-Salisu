@@ -23,7 +23,7 @@ I work on security reviews of DeFi protocols with focus on accounting risks, inv
 | Contest | Date | Description | Findings | Report |
 | :------ | :--- | :---------- | :------- | :----- |
 | [Intuition](https://code4rena.com/audits/2026-03-intuition) | Mar 2026 | The decentralized language protocol, knowledge network, & native blockchain for InfoFi - unlocking the next generation of the internet. Powered by $TRUST | [M-01](https://code4rena.com/audits/2026-03-intuition/submissions?uid=DnQgg3F4Vdo) | [View]() |
-| [Olas](https://code4rena.com/audits/2026-01-olas) | Jan 2026 | Olas enables everyone to own and monetize their AI agents. It is the platform for true co-ownership of AI. Powered by the OLAS Token. | ![H-01](https://github.com/user-attachments/assets/92bd8b5f-6b60-496f-8547-f43e52a0d4d2) | [View]() |
+| [Olas](https://code4rena.com/audits/2026-01-olas) | Jan 2026 | Olas enables everyone to own and monetize their AI agents. It is the platform for true co-ownership of AI. Powered by the OLAS Token. | ![H-01](https://github.com/user-attachments/assets/51a79810-fc48-4e55-bfe2-577f7f47777e) | [View]() |
 | [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Nov 2025 | On-chain marketplace connecting DeFi directly with profitable real-world businesses through profit-sharing debt instruments | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF) | [View](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2025-11-sukukfi%2Ffindings.md) |
 
 ---
