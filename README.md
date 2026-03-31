@@ -13,9 +13,6 @@
 </p>
 
 
-## Smart Contract Security Research
-
-
 ### About Me
 Security researcher focusing on DeFi protocols, with emphasis on 
 accounting risks, invariant breaks, and trust assumptions. Track 
