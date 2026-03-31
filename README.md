@@ -13,14 +13,14 @@
 </p>
 
 
-## About Me
+### About Me
 Security researcher focusing on DeFi protocols, with emphasis on 
 accounting risks, invariant breaks, and trust assumptions. Track 
 record includes validated High and Medium severity findings across 
 multiple competitive audit platforms.
 
 
-## Audit Track Records
+### Audit Track Records
 
 
 | Contest | Date | Description | Findings | Report |
