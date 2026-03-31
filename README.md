@@ -13,8 +13,14 @@
 </p>
 
 
+# Smart Contract Security Research
+
+
 ### About Me
-I work on security reviews of DeFi protocols with focus on accounting risks, invariant breaks and trust assumptions. I work with a security-first mindset, aiming to understand systems deeply and identify real world exploits. I help teams identify potential vulnerabilities before deployment.
+Security researcher focusing on DeFi protocols, with emphasis on 
+accounting risks, invariant breaks, and trust assumptions. Track 
+record includes validated High and Medium severity findings across 
+multiple competitive audit platforms.
 
 
 ### Audit Track Records
