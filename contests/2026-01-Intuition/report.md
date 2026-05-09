@@ -1,7 +1,4 @@
-[M-01] Unauthenticated Time Window Parameters Allow Bundler to Tamper with validUntil / validAfter Constraints
-Avatar for Yahaya_Salisu
-Yahaya_Salisu
-
+# [M-01] Unauthenticated Time Window Parameters Allow Bundler to Tamper with validUntil / validAfter Constraints
 
 
 ## Finding description and impact
