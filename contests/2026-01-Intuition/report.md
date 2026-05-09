@@ -83,11 +83,11 @@ function _validateSignature(
 ```
 This single change cryptographically binds the time window to the owner's signature. Any bundler that rewrites the suffix will cause ECDSA recovery to return the wrong address, setting sigFailed = true and causing the EntryPoint to reject the operation.
 
-Proof of Concept
+## Proof of Concept
 The following Foundry test reproduces the vulnerability end-to-end. It demonstrates that a bundler can replace the time window suffix while keeping the original ECDSA bytes, and the wallet accepts the tampered window with no signature failure.
 
-Run with: forge test --match-test test_submissionValidity -vvvv
-
+Run with: `forge test --match-test test_submissionValidity -vvv`
+```solidity
 // SPDX-License-Identifier: BUSL-1.1
 pragma solidity 0.8.29;
 
@@ -146,4 +146,5 @@ contract PoCCore is BaseTest {
         assertTrue(block.timestamp <= tUntil, "window is open again after tampering");
     }
 }
+```
 All assertions pass. The tampered validUntil (block.timestamp + 30 days) is returned with sigFailed = 0, demonstrating that the time window modification is fully accepted without any cryptographic rejection.
