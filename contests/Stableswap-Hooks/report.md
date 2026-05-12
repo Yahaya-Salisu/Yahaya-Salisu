@@ -1,6 +1,6 @@
 | ID                                                                                                               | Title                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [M-01](#stableSwapZapIn-addLiquidityAndGetShares():-zero-inner-slippage-on-addLiquidity-enables-sandwich-attacks)                       | StableSwapZapIn._addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks                                |
+| [M-01](#m-01-stableSwapZapIn._addLiquidityAndGetShares():-zero-inner-slippage-on-addLiquidity-enables-sandwich-attacks)                       | StableSwapZapIn._addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks                                |
 | [I-01](#h-02-Over-repayment-possible-in-repayBorrow-due-to-missing-upper-bound-check-on-_amount)                              | ...                              |
 | [I-02](#h-03-repayBorrowInternal-allows-arbitrary-third-party-to-repay-on-behalf-of-borrower-without-authorization)                                | ...                                         |
 | [I-03](#h-04-Supply-Function-Uses-Stale-Exchange-Rate,-Leading-To-Inaccurate-Minting)                             | ...                              |
@@ -9,7 +9,7 @@
 
 
 
-# StableSwapZapIn addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks
+# [M-01] StableSwapZapIn._addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks
 
 
 ## Description
