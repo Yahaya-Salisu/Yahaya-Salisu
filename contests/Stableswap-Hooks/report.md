@@ -1,6 +1,6 @@
-| ID | Description |
+| ID | Title |
 | :-- | :----- |
-| [M-01](StableSwapZapIn._addLiquidityAndGetShares():_Zero_Inner_Slippage_on_addLiquidity_Enables_Sandwich_Attacks) | StableSwapZapIn._addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks |
+| [M-01](#StableSwapZapIn._addLiquidityAndGetShares():_Zero_Inner_Slippage_on_addLiquidity_Enables_Sandwich_Attacks) | StableSwapZapIn._addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks |
 | [I-01]() | ... |
 | [I-02]() | ... |
 | [I-03]() | ... |
