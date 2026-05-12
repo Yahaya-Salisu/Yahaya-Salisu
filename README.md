@@ -23,11 +23,12 @@ multiple competitive audit platforms.
 ### Audit Track Records
 
 
-| Contest | Date | Description | Findings | Report |
-| :------ | :--- | :---------- | :------- | :----- |
-| [Intuition](https://code4rena.com/audits/2026-03-intuition) | Mar 2026 | InfoFi protocol | [M-01](https://code4rena.com/audits/2026-03-intuition/submissions?uid=DnQgg3F4Vdo) | Upcoming |
-| [Olas](https://code4rena.com/audits/2026-01-olas) | Jan 2026 | AI agent platform | ![H-01](https://github.com/user-attachments/assets/51a79810-fc48-4e55-bfe2-577f7f47777e) | Upcoming |
-| [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Nov 2025 | On-chain marketplace | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF) | [View](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2025-11-sukukfi%2Ffindings.md) |
+| Contest | Platform | Date | Description | Report | Findings |
+| :------ | :---- | :--- | :---------- | :------- | :----- |
+| [Reserve-Governor](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview) | [Cantina](https://share.google/UTRt4ccwVdzxIz7v3) | Apr 2026 | Hybrid optimistic/pessimistic governance | [1L](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2FReserve-Governor%2Freport.md) | [L-01](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/findings/298) |
+| [Stableswap-Hooks](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview) | [Cantina](https://share.google/UTRt4ccwVdzxIz7v3) | Apr 2026 | Uniswap v4 hook implementation | [1M, 4Info](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2FStableswap-Hooks%2Freport.md) | [M-01](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/findings/202) |
+| [Intuition](https://code4rena.com/audits/2026-03-intuition) | [Code4rena](https://code4rena.com/audits) | Mar 2026 | Decentralized language protocol | [1M](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2026-01-Intuition%2Freport.md) | [M-01](https://code4rena.com/audits/2026-03-intuition/submissions?uid=DnQgg3F4Vdo) |
+| [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | [Code4rena](https://code4rena.com/audits) | Nov 2025 | On-chain marketplace | [2L](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2025-11-sukukfi%2Ffindings.md) | [L-01](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [L-02](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF)|
 
 ---
 
