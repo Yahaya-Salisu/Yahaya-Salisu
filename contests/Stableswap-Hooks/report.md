@@ -1,10 +1,10 @@
-| ID | Title |
-| :-- | :----- |
-| [M-01](#stableSwapZapIn._addLiquidityAndGetShares():-Zero-Inner-Slippage-on-addLiquidity-enables-sandwich-attacks) | StableSwapZapIn._addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks |
-| [I-01]() | ... |
-| [I-02]() | ... |
-| [I-03]() | ... |
-| [I-04]() | ... |
+| ID                                                                                                               | Title                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [M-01](#stableSwapZapIn._addLiquidityAndGetShares():-zero-inner-slippage-on-addLiquidity-enables-sandwich-attacks)                       | StableSwapZapIn._addLiquidityAndGetShares(): Zero Inner Slippage on addLiquidity Enables Sandwich Attacks                                |
+| [I-01](#h-02-Over-repayment-possible-in-repayBorrow-due-to-missing-upper-bound-check-on-_amount)                              | Over-repayment possible in repayBorrow due to missing upper bound check on _amount                              |
+| [I-02](#h-03-repayBorrowInternal-allows-arbitrary-third-party-to-repay-on-behalf-of-borrower-without-authorization)                                | repayBorrowInternal allows arbitrary third-party to repay on behalf of borrower without authorization                                          |
+| [I-03](#h-04-Supply-Function-Uses-Stale-Exchange-Rate,-Leading-To-Inaccurate-Minting)                             | Supply Function Uses Stale Exchange Rate, Leading to Inaccurate Minting                              |
+| [I-04](#m-01-Redeem-function-does-not-call-accrueInterest-leading-to-loss-of-user-interests)                | Redeem function does not call accrueInterest, leading to loss of user interests
 
 
 
