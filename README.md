@@ -41,4 +41,4 @@ multiple competitive audit platforms.
 | Project | Category | Date | Severity | Report |
 | :---- | :---- | :----- | :---- | :---- |
 | Daxalot | ... | Apr 2026 | 1M, 1L | Private |
-| OpenEden | ... | Aug 2025 | 2L, 1Info | Private |
+| OpenEden | ... | Aug 2025 | 1M | Private |
