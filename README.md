@@ -12,10 +12,9 @@
 
 
 ### About Me
-Smart Contract Auditor | Specializing in Lending & Borrowing, Vaults, Yield Strategies, Cross Chain Bridges & Governance Protocols.
+Smart Contract Security Researcher specializing in DeFi protocols, with a strong focus on **Lending & Borrowing, Vaults & Yield, Cross-Chain Bridges, and Governance**.
 
-Track record includes validated High and Medium severity findings across 
-multiple competitive audit and bug bounty platforms.
+Emphasis on accounting risks, invariant breaks, and trust assumptions. Track record includes validated **High and Medium severity findings** in competitive audits and bug bounties.
 
 
 ### Tools & Techniques
