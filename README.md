@@ -26,7 +26,7 @@ multiple competitive audit platforms.
 - **Foundry** for unit testing, fuzzing, forking, and PoCs  
 
 
-### Audit Competitions
+### Public Competitions
 
 | Contest | Platform | Date | Description | Report | Findings |
 | :------ | :---- | :--- | :---------- | :------- | :----- |
