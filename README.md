@@ -37,5 +37,5 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 | Project | Category | Date | Severity | Report |
 | :---- | :---- | :----- | :---- | :---- |
-| Daxalot | ... | Apr 2026 | 1M, 1L | Private |
-| OpenEden | ... | Aug 2025 | 1M | Private |
+| Daxalot | Bridge system | Apr 2026 | 1M, 1L | Private |
+| OpenEden | ... | Aug 2025 | 3Info | Private |
