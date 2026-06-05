@@ -19,9 +19,11 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 
 ### Tools & Techniques
-- **AI tool** for architecture, modules and invariants mapping
-- **Manual code review** (*strongest skill*)  
-- **Foundry** for unit testing, handler-based and stateful fuzzing, forking, and PoCs  
+
+- **Manual Code Review** - Invariant-driven, adversarial analysis across 100k+ LoC
+- **Foundry** - Unit testing, handler-based stateful fuzzing, mainnet forking, PoCs  
+- **Static Analysis** - Slither, Aderyn for initial surface mapping & false positive filtering
+- **Threat Modeling** - Trust assumptions, privileged functions, cross-chain risks
 
 
 ### Public Competitions
