@@ -15,7 +15,7 @@
 ### About Me
 Security Researcher & Triager specializing in DeFi protocols, with a strong focus on **Lending & Borrowing, Vaults & Yield, Cross-Chain Bridges, and Governance**.
 
-Emphasis on accounting risks, invariant breaks, and trust assumptions. Track record includes validated **High and Medium severity findings** in competitive audits and bug bounties.
+Emphasis on accounting risks, invariant breaks, and trust assumptions. Track record includes validated **High and Medium severity findings** across Code4rena, Cantina and Sherlock plus **private bug bounties** on bridge systems.
 
 
 ### Tools & Techniques
