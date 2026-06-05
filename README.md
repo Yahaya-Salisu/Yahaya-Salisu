@@ -7,6 +7,8 @@
 
   <img src="https://img.shields.io/badge/Experienced-Triager-informational?style=flat&logo=court-logo&color=light-green" />
 
+<img src="https://img.shields.io/badge/Security_Researcher-&_Triager-informational?style=for-the-badge&logo=ethereum&color=8A2BE2" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yahaya-Salisu&theme=radical" />
