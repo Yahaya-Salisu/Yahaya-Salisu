@@ -47,4 +47,4 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 | Protocol | With | Date | Role |
 | :--- | :--- | :--- | :--- |
-| ... | ... | ... | ... |
+| ... | ... | May 2026 | Reviewed and assessed multiple bug bounty submissions. Responsibilities included impact validation, severity classification, duplicate analysis, and report quality assessment |
