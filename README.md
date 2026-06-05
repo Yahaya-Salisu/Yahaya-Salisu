@@ -48,4 +48,4 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 | Protocol | With | Date | Role |
 | :--- | :--- | :--- | :--- |
-| Private under NDA | Leading Bridge Protocol | May 2026 | **Owned end-to-end triage** for 60+ bug bounty submissions. **Reduced financial risk by $500k+** via severity reclassification & duplicate detection. Cut false positive rate by 80% through adversarial PoC verification. |
+| Private under NDA | Top-tier Audit Platform | May 2026 | **Owned end-to-end triage** for 60+ bug bounty submissions. **Reduced financial risk by $500k+** via severity reclassification & duplicate detection. Cut false positive rate by 80% through adversarial PoC verification. |
