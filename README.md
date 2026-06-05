@@ -1,11 +1,11 @@
 <h3 align="center">Hi, I'm Yahaya Salisu</h3>
-<h4 align="center">Smart Contract Security Researcher</h4>
+<h4 align="center">Security Researcher | Triager</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/SmartContract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
 
-  <img src="https://img.shields.io/badge/Triager-informational?style=flat&logo=court-logo&color=light-green" />
+  <img src="https://img.shields.io/badge/Experienced-Triager-informational?style=flat&logo=court-logo&color=light-green" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
