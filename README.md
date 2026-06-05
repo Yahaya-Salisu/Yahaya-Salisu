@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/SmartContract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
-
-  <img src="https://img.shields.io/badge/Experienced-Triager-informational?style=flat&logo=court-logo&color=light-green" />
 
 <img src="https://img.shields.io/badge/Security_Researcher-&_Triager-informational?style=for-the-badge&logo=ethereum&color=8A2BE2" />
 
