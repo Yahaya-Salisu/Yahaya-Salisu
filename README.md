@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/SmartContract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
 
-  <img src="https://img.shields.io/badge/Triager-informational?style=flat&logo=law&color=grey" />
+  <img src="https://img.shields.io/badge/Triager-informational?style=flat&logo=court-logo&color=light-green" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
