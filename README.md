@@ -22,7 +22,7 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 - **Manual Code Review** - Invariant-driven, adversarial analysis across 100k+ LoC
 - **Foundry** - Unit testing, handler-based stateful fuzzing, mainnet forking, PoCs  
-- **Static Analysis** - Slither, Aderyn for initial surface mapping & false positive filtering
+- **Static Analysis** - Slither/solidity-auditor for initial surface mapping & false positive filtering
 - **Threat Modeling** - Trust assumptions, privileged functions, cross-chain risks
 
 
