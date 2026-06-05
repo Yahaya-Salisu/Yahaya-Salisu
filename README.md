@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=yahaya-Salisu&label=Profile%20views&color=blue&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/SmartContract-Auditor-informational?style=flat&logo=ethereum&color=orange" />
 
-  <img src="https://img.shields.io/badge/Triager-informational?style=flat&logo=ethereum&color=orange" />
+  <img src="https://img.shields.io/badge/Triager-informational?style=flat&logo=law&color=grey" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahaya-Salisu&show_icons=true&theme=radical" />
@@ -47,3 +47,4 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 | Protocol | With | Date | Role |
 | :--- | :--- | :--- | :--- |
+| ... | ... | ... | ... |
