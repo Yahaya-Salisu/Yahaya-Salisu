@@ -42,11 +42,3 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 | :---- | :---- | :----- | :---- | :---- |
 | Daxalot | Bridge system | Apr 2026 | 1M, 1L | Private |
 | OpenEden | ... | Aug 2025 | 3Info | Private |
-
-
-### Triage & Security Review
-
-| Protocol | With | Date | Role |
-| :--- | :--- | :--- | :--- |
-| Bridge & Dex Protocol (Private under NDA) | [Pashov Audit Group](https://www.pashov.com/) | Jun 2026 | **Back-to-back triage lead** for 60+ submissions. 48hr turnaround, 0 escalations. Specialized in `admin-gated` invalid detection. |
-| Smart Contract Wallet (Private under NDA) | [Pashov Audit Group](https://www.pashov.com/) | May 2026 | **Owned end-to-end triage** for 60+ bug bounty submissions. Reduced financial risk via severity reclassification & duplicate detection. Cut false positive rate by 80% through adversarial PoC verification. |
