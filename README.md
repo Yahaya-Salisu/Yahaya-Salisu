@@ -31,6 +31,7 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 | Contest | Platform | Date | Description | Report | Proof |
 | :------ | :---- | :--- | :---------- | :------- | :----- |
 | Upcoming | Sherlock | Jun 2026 | ... | 3M, 4L, 2Info | View |
+| DRE App - dreUSD | Sherlock | Jun 2026 | Stablecoin protocol developing dreUSD | [4L](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests) | View |
 | [Reserve-Governor](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview) | Cantina | Apr 2026 | Hybrid optimistic/pessimistic governance | [1L](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2FReserve-Governor%2Freport.md) | [View](https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/findings/298) |
 | [Stableswap-Hooks](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview) | Cantina | Apr 2026 | Uniswap v4 hook implementation | [1M, 4Info](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2FStableswap-Hooks%2Freport.md) | [View](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/findings/202), [View](https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/findings/125) |
 | [Intuition](https://code4rena.com/audits/2026-03-intuition) | Code4rena | Mar 2026 | Decentralized language protocol | [1M](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2026-01-Intuition%2Freport.md) | [View](https://code4rena.com/audits/2026-03-intuition/submissions?uid=DnQgg3F4Vdo) |
