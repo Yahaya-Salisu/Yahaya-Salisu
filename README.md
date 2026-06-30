@@ -51,8 +51,8 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 | Protocol | With | Date | Role |
 | :--- | :--- | :--- | :--- |
-| Upcoming | Top-tier Audit Firm | Jun 2026 | Triage |
-| Infrastructure | Top-tier Audit Team | Jun 2026 | Triage |
+| Bridge | Top-tier Audit Firm | Jun 2026 | Triage |
+| Infrastructure | Top-tier Audit Firm | Jun 2026 | Triage |
 | Lending Protocol (Under NDA) | Top-tier Audit Firm | Jun 2026 | Triage |
 | Dex Protocol (Under NDA) | Top-tier Audit Firm | Jun 2026 | Triage |
 | Smart Contract Wallet (Under NDA) | Top-tier Audit Firm | May 2026 | Triage |
