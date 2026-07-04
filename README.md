@@ -55,5 +55,5 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 | Bridge Protocol | Pashov Audit Group | Jun 2026 | Triage |
 | Infrastructure | Pashov Audit Group | Jun 2026 | Triage |
 | Lending Protocol (Under NDA) | Pashov Audit Group | Jun 2026 | Triage |
-| Dex Protocol (Under NDA) | Pashov Audit Group | Jun 2026 | Triage |
+| Dex Protocol (Under NDA) | Pashov Audit Group | may 2026 | Triage |
 | Smart Contract Wallet (Under NDA) | Pashov Audit Group | May 2026 | Triage |
