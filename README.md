@@ -51,8 +51,8 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 | Protocol | With | Date | Role |
 | :--- | :--- | :--- | :--- |
-| Lending Protocol | Kann Audits | Jul 2026 | Triage |
-| Bridge Protocol | Kann Audits | Jun 2026 | Triage |
+| Lending Protocol | Pashov Audit Group | Jul 2026 | Triage |
+| Bridge Protocol | Pashov Audit Group | Jun 2026 | Triage |
 | Infrastructure | Pashov Audit Group | Jun 2026 | Triage |
 | Lending Protocol (Under NDA) | Pashov Audit Group | Jun 2026 | Triage |
 | Dex Protocol (Under NDA) | Pashov Audit Group | may 2026 | Triage |
