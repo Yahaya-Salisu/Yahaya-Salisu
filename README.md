@@ -45,8 +45,7 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 | :---- | :--- | :---- | :----- | :---- | :---- |
 | Aladdin DAO | Private Bug Bounty | Yield | Aug 2026 | 1H, 2M | Private |
 | stake DAO | Private Bug Bounty | Yield | Aug 2026 | 1C, 2H, 1M | Private |
-| Daxalot | hackenProof | Bridge system | Apr 2026 | 1M, 1L | Private |
-| OpenEden | hackenProof | Bridge | Aug 2025 | 3Info | Private |
+| Daxalot | hackenProof | Bridge system | Apr 2025 | 1M, 1L | Private |
 
 
 ### Triage & Security Review
