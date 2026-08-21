@@ -18,6 +18,8 @@ Security Researcher & Triager specializing in DeFi protocols, with a strong focu
 Emphasis on accounting risks, invariant breaks, and trust assumptions. Track record includes validated **High and Medium severity findings** across Code4rena, Cantina and Sherlock plus **private bug bounties** on multiple protocols
 
 
+## 📈 Portfolio Highlights
+
 |  **Metric** | **Count** |
 | :--- | :-- |
 | 🐞 Total Bugs | 33 |
