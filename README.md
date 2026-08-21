@@ -39,7 +39,7 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 | [sukukfi](https://code4rena.com/audits/2025-11-sukukfi) | Code4rena | Nov 2025 | On-chain marketplace | [2L](https://github.com/Yahaya-Salisu/Yahaya-Salisu/blob/main/contests%2F2025-11-sukukfi%2Ffindings.md) | [View](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=jVSKDK6FniV), [View](https://code4rena.com/audits/2025-11-sukukfi/submissions?uid=Dn9zCTYF6VF)|
 
 
-### Private Bug Bounty And Engagements
+### Bug Bounty And Engagements
 
 | Project | Category | Date | Severity | Report |
 | :---- | :---- | :----- | :---- | :---- |
