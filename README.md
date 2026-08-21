@@ -43,7 +43,7 @@ Emphasis on accounting risks, invariant breaks, and trust assumptions. Track rec
 
 | Project | Platform | Category | Date | Severity | Report |
 | :---- | :--- | :---- | :----- | :---- | :---- |
-| [AladdinDAO](https://share.google/DM90qM6ObR0K5KWWR) | [Private Bug Bounty](https://docs.aladdin.club/security-bounty) | Yield | Aug 2026 | 3M | Private |
+| [AladdinDAO](https://share.google/DM90qM6ObR0K5KWWR) | [Private Bug Bounty](https://docs.aladdin.club/security-bounty) | Yield | Aug 2026 | 3H | Private |
 | [stake DAO](https://www.stakedao.org/) | [Private Bug Bounty](https://docs.stakedao.org/bug-bounty) | Yield | Aug 2026 | 1C, 2H, 1M | Private |
 | Daxalot | hackenProof | Bridge system | Apr 2025 | 1M, 1L | Private |
 
