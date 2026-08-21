@@ -18,12 +18,13 @@ Security Researcher & Triager specializing in DeFi protocols, with a strong focu
 Emphasis on accounting risks, invariant breaks, and trust assumptions. Track record includes validated **High and Medium severity findings** across Code4rena, Cantina and Sherlock plus **private bug bounties** on multiple protocols
 
 
-### Tools & Techniques
-
-- **Manual Code Review** - Invariant-driven, adversarial analysis across 100k+ LoC
-- **Foundry** - Unit testing, handler-based stateful fuzzing, mainnet forking, PoCs  
-- **Static Analysis** - Slither/solidity-auditor for initial surface mapping & false positive filtering
-- **Threat Modeling** - Trust assumptions, privileged functions, cross-chain risks
+| *Metric* | *_Count_* |
+| :--- | :-- |
+| 🐞 Total Bugs | 33 |
+| 🔴 Critical Severity | 1 |
+| 🟠 High Severity | 5 |
+| 🟡 Medium Severity | 9 |
+| 🟢 Low Severity | 18 |
 
 
 ### Public Competitions
